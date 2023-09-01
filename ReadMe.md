@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Meu nome é Wellington, e atualmente estou cursando Sistemas de Informação pela UNIASSELVI. Conhecimento - Dart | Flutter | JavaScript
+Olá! Meu nome é Wellington, e atualmente estou cursando Sistemas de Informação pela UNIASSELVI. Conhecimento - Dart | Flutter | UX Design | Figma
 
 
 ## 🌐 Socials:

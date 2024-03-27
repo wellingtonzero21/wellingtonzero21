@@ -9,6 +9,7 @@ Estou empenhado em me tornar um desenvolvedor mobile e venho aprimorando minhas 
 💻 Tecnologias que possuo conhecimento:
 - Dart
 - Flutter
+- JavaScript
 - UX/UI Design
 - Figma
 

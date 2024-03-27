@@ -1,9 +1,21 @@
 # 💫 About Me:
-Sou um desenvolvedor mobile em formação, com foco em Flutter. 
-Atualmente, cursando Bacharelado em Sistemas de Informação na UNIASSELVI.
+🧑🏾‍💻 Sou um desenvolvedor mobile em formação, com foco em Flutter. 
+Atualmente, cursando Bacharelado em Sistemas de Informação na UNIASSELVI 🏫.
 
-Estou empenhado em me tornar um desenvolvedor mobile e venho aprimorando minhas habilidades com a tecnologia Flutter. Meu objetivo é expandir meu conhecimento em linguagens nativas como Swift e Kotlin. **Atualmente, estou cursando Desenvolvimento Mobile Flutter na Escola Koru em parceria com o Grupo Boticário.**
-Concluí um Bootcamp da Santander Mobile com Flutter e fiz dois programas de Jovem Aprendiz. Meu último cargo foi como Marinheiro na Marinha do Brasil.
+Estou empenhado em me tornar um desenvolvedor mobile e venho aprimorando minhas habilidades com a tecnologia Flutter. Meu objetivo é expandir meu conhecimento em linguagens nativas como Swift e Kotlin.
+
+ **Atualmente, estou cursando Desenvolvimento Mobile Flutter na Escola Koru em parceria com o Grupo Boticário.** Este curso tem sido uma oportunidade incrível para aprimorar minhas habilidades e conhecimentos em desenvolvimento mobile. Além disso, concluí um Bootcamp da Santander Mobile com Flutter.
+
+💻 Tecnologias que possuo conhecimento:
+- Dart
+- Flutter
+- UX/UI Design
+- Figma
+
+🏫Bacharelado em Sistemas de Informação.
+📗Programa Desenvolve Boticário.
+📕Bootcamp Santander.
+
 
 
 ## 🌐 Socials:

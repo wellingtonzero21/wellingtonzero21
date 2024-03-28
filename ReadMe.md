@@ -1,8 +1,7 @@
 # 🔤 Your preferred language:
 <tr><td><a href="ReadMe.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="28" align="center">  Português</a></td></tr>  <tr><td><a href="ReadMe_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="28" align="center"> English</a></td></tr>  <tr><td><a href="ReadMe_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="28" align="center"> Español</a></td></tr>
 
-
-# 💫 Sobre mim:
+## 💫 Sobre mim:
 🧑🏾‍💻 Sou um desenvolvedor mobile em formação, com foco em Flutter. 
 Atualmente, cursando Bacharelado em Sistemas de Informação na UNIASSELVI 🏫.
 

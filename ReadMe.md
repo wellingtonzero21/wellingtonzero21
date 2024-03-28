@@ -1,3 +1,7 @@
+# 🔤 Your preferred language:
+<tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="28" align="center">  Português</a></td></tr>  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="28" align="center"> English</a></td></tr>  <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="28" align="center"> Español</a></td></tr>
+
+
 # 💫 About Me:
 🧑🏾‍💻 Sou um desenvolvedor mobile em formação, com foco em Flutter. 
 Atualmente, cursando Bacharelado em Sistemas de Informação na UNIASSELVI 🏫.
@@ -13,9 +17,9 @@ Estou empenhado em me tornar um desenvolvedor mobile e venho aprimorando minhas 
 - UX/UI Design
 - Figma
 
-🏫Bacharelado em Sistemas de Informação.
-📗Programa Desenvolve Boticário.
-📕Bootcamp Santander.
+🏫 Bacharelado em Sistemas de Informação.
+📗 Programa Desenvolve Boticário.
+📕 Bootcamp Santander.
 
 
 

@@ -2,7 +2,7 @@
 <tr><td><a href="ReadMe.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="28" align="center">  Português</a></td></tr>  <tr><td><a href="ReadMe_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="28" align="center"> English</a></td></tr>  <tr><td><a href="ReadMe_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="28" align="center"> Español</a></td></tr>
 
 
-# 💫 About Me:
+## 💫 About Me:
 🧑🏾‍💻 I am a mobile developer in training, with a focus on Flutter. Currently, I am pursuing a Bachelor’s degree in Information Systems at UNIASSELVI 🏫.
 
 I am committed to becoming a mobile developer and have been honing my skills with the Flutter technology. My goal is to expand my knowledge in native languages like Swift and Kotlin.

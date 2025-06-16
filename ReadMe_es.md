@@ -14,8 +14,14 @@ Estoy comprometido a convertirme en un desarrollador móvil y he estado perfecci
 - Dart
 - Flutter
 - JavaScript
-- Diseño UX/UI
+- UX/UI Design
 - Figma
+- BigQuery
+- SQL
+- Python
+- Google Cloud
+- Git
+- GitHub
 
 🏫 Licenciatura en Sistemas de Información.
 📗 Programa Desenvolve Boticário.

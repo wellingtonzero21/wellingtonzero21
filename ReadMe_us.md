@@ -16,6 +16,12 @@ I am committed to becoming a mobile developer and have been honing my skills wit
 - JavaScript
 - UX/UI Design
 - Figma
+- BigQuery
+- SQL
+- Python
+- Google Cloud
+- Git
+- GitHub
 
 🏫 Bachelor’s degree in Information Systems.
 📗 Desenvolve Boticário Program.

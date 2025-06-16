@@ -15,6 +15,12 @@ Estou empenhado em me tornar um desenvolvedor mobile e venho aprimorando minhas 
 - JavaScript
 - UX/UI Design
 - Figma
+- BigQuery
+- SQL
+- Python
+- Google Cloud
+- Git
+- GitHub
 
 🏫 Bacharelado em Sistemas de Informação.
 📗 Programa Desenvolve Boticário.
